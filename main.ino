@@ -3,13 +3,14 @@
   * 
   * 30.12.2018
   * 
-  * This project developt by Cetin KAYA and Gamze YILMAZ
+  * This project developt by Gamze YILMAZ and Cetin Kaya
   * 
   * Kocaeli University
   * 
+  * gamzeyyilmazz@gmail.com
+  *
   * contact@cetinkaya.co
   * 
-  * cetinkaya.co
 */
 #include<Keypad.h>
 #include <Servo.h>
